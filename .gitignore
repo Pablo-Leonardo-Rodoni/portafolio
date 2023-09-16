@@ -2,3 +2,7 @@ backend/
 images/
 node_modules
 .hintrc
+
+
+
+ssh-keygen -t rsa -b 4096 -C "rodonileo5@gmail.com"
