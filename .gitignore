@@ -1,0 +1,4 @@
+backend/
+images/
+node_modules
+.hintrc
